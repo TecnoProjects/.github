@@ -12,6 +12,16 @@
 ![screenshot](https://raw.githubusercontent.com/tecnoprojects/tecnoprojects.github.io/main/images/cap.png)
 
 ---
+## Nos dedicamos a lo siguiente
+· Innovacion tecnologica general
+· Creacion y modificacion de programas
+· Desarrollo web
+· Desarrollo de software
+· Diseño
+· Audio y video
+· Fabricación de protocolos
+· Redes
+· Ciberseguridad Red y blue team
 
 > [TecnoProjects WEB](https:/tecnoprojects.github.io) &nbsp;&middot;&nbsp;
 
