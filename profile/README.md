@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Empresa de ciberseguridad, servicios tecnologicos e innovacion <a href="https://tecnoprojects.github.io" target="_blank">TecnoProjects Sec</a>.</h4>
 
 ![screenshot](https://raw.githubusercontent.com/tecnoprojects/tecnoprojects.github.io/main/images/cap.png)
 
