@@ -13,15 +13,15 @@
 
 ---
 ## Nos dedicamos a lo siguiente
-· Innovacion tecnologica general
-· Creacion y modificacion de programas
-· Desarrollo web
-· Desarrollo de software
-· Diseño
-· Audio y video
-· Fabricación de protocolos
-· Redes
-· Ciberseguridad Red y blue team
+· Innovacion tecnologica general <br>
+· Creacion y modificacion de programas <br>
+· Desarrollo web <br>
+· Desarrollo de software <br>
+· Diseño <br>
+· Audio y video<br>
+· Fabricación de protocolos <br>
+· Redes <br>
+· Ciberseguridad Red y blue team <br>
 
 > [TecnoProjects WEB](https:/tecnoprojects.github.io) &nbsp;&middot;&nbsp;
 
