@@ -23,5 +23,5 @@
 · Redes <br>
 · Ciberseguridad Red y blue team <br>
 
-> [TecnoProjects WEB](https:/tecnoprojects.github.io) &nbsp;&middot;&nbsp;
+> [TecnoProjects WEB](https://tecnoprojects-security.vercel.app/) &nbsp;&middot;&nbsp;
 
