@@ -9,7 +9,7 @@
 
 <h4 align="center">Empresa de ciberseguridad, servicios tecnologicos e innovacion <a href="https://tecnoprojects.github.io" target="_blank">TecnoProjects Sec</a>.</h4>
 
-![screenshot](https://raw.githubusercontent.com/tecnoprojects/tecnoprojects.github.io/main/images/cap.png)
+![screenshot](https://raw.githubusercontent.com/Mr-TechX/TecnoProjectsSec/refs/heads/main/img/cap.png)
 
 ---
 ## Nos dedicamos a lo siguiente
